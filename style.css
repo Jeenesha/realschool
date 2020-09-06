@@ -1,0 +1,318 @@
+/*----------desktop css-------------*/
+body{
+  margin: 0px;
+}
+.logo{
+  width: 220px;
+    display: block;
+    position: absolute;
+    margin: 20px 0px 0px 160px;
+
+}
+.nav1 {
+    border-bottom: 1px solid #EAEAEB;
+    text-align: right;
+    height: 70px;
+    line-height: 70px;
+    box-shadow: 0 4px 8px 0 #ddd;
+    padding: 0px 20px;
+}
+.menu {
+    margin: 0 30px 0 0;
+    display: contents;
+}
+.menu a {
+    clear: right;
+    text-decoration: none;
+    margin: 0 20px;
+    line-height: 70px;
+    font-family: cursive;
+    font-weight: 600;
+    color: #333333;
+}
+
+label {
+    margin: 0 40px 0 0;
+    font-size: 26px;
+    line-height: 70px;
+    margin: 0px 0px 0px 60px;
+    width: 26px;
+    float: left;
+}
+#toggle {
+    display: none;
+}
+
+.inr{
+  border-radius: 20px;
+  padding-right:  10px;
+  display: inline-flex;
+  align-items: center; 
+  font-family: cursive; 
+  font-weight: 600;
+  color: #333333;
+  background-color: transparent;
+  vertical-align: middle;
+  line-height: 10px;
+}
+
+.fst{
+  background-color: #FBFCF7;
+}
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 25px;
+}
+
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 25px;
+  color: #fff;
+  font-family: cursive; 
+  font-weight: 600;
+  font-size: 24px;
+}
+.xyz{
+  width: 550px;
+  border-radius: 5px;
+}
+.container{
+  padding-top: 30px;
+}
+.ff{
+  font-family: 'Montserrat';
+  font-weight: 600;
+}
+.ff1{
+  font-family: cursive;
+  font-weight: 600;
+}
+small{
+  color: #ADBABD
+}
+.rec{
+  border-radius: 5px;
+  padding-right:  10px;
+  float: right;
+  align-items: center; 
+  font-family: cursive; 
+  font-weight: 600;
+  color: #333333;
+  background-color: #FDFFD3;
+  vertical-align: middle;
+  line-height: 14px;
+  text-align: left;
+}
+.watch{
+  border-radius: 5px;
+  border-color: #fff;
+  padding:  10px 20px;
+  float: right;
+  align-items: center; 
+  font-family: cursive; 
+  font-weight: 600;
+  color: #333333;
+  background-color: #FFF;
+  vertical-align: middle;
+  line-height: 14px;
+  text-align: left;
+}
+.six{
+  font-weight: 400;
+}
+.ch{
+  padding-top: 10px;
+
+}
+.ch1{
+  border-radius: 20px;
+  border-color: #ADBABD;
+  padding:  10px 20px;
+  align-items: center;  
+  font-weight: 600;
+  color: #ADBABD;
+  background-color: #FFF;
+  vertical-align: middle;
+  line-height: 14px;
+  text-align: left;
+}
+.inr120{
+  border-radius: 5px;
+  border-color: #fff;
+  padding:  10px 20px;
+  align-items: center;  
+  font-weight: 800;
+  color: #333333;
+  background-color: #FFF;
+  vertical-align: middle;
+  line-height: 14px;
+  text-align: left;
+}
+.earn{
+  color: #FF3A58;
+  text-decoration: underline;
+}
+.book{
+  color: #fff;
+  background-color: #FF3A58;
+  font-family: cursive;
+  border-color: #FF3A58;
+  border-radius: 5px;
+  width: 90%;
+  font-weight: 600;
+  padding: 10px 0px;
+}
+.book1{
+  color: #fff;
+  background-color: #FF3A58;
+  font-family: cursive;
+  border-color: #FF3A58;
+  border-radius: 5px;
+  font-weight: 600;
+  padding: 10px 20px;
+}
+.share{
+  color: #FF3A58;
+  background-color: transparent;
+  font-family: cursive;
+  border-color: #FF3A58;
+  border-radius: 5px;
+  font-weight: 600;
+  padding: 10px 20px;
+}
+.bg-green{
+    background-color: #A0E467 !important;
+    width: 25px;
+    height: 6px !important;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.fa-arrow-right{
+  float: right;
+}
+.card{
+  max-width: 18rem;
+  text-align: center;
+}
+.card-img-top1{
+  width: 50px !important;
+}
+.card-title{
+  padding-top: 5px;
+  font-size: 14px;
+}
+.end{
+  text-align: center;
+  color: #fff;
+  background-color: #5A5555;
+  padding: 10px 0px;
+}
+.en{
+  background-color: #635D5D;
+  color: #fff;
+}
+.real{
+  text-align: center;
+  background-color: #635D5D;
+  padding: 40px;
+}
+.real1{
+  text-align: center;
+}
+.pdd1{
+  padding-bottom: 40px;
+}
+.c0-1{
+  height: 450px;
+  background-image: url("img/123.png");
+}
+.c0-2{
+  height: 450px;
+  background-image: url("img/123.png");
+}
+.c0-3{
+  height: 450px;
+  background-image: url("img/123.png");
+}
+.c0-4{
+  height: 450px;
+  background-image: url("img/123.png");
+}
+.c0-5{
+  height: 450px;
+  background-image: url("img/123.png")
+}
+/*----------mobile responsive css-------------*/
+@media only screen and (max-width: 500px) {
+  .c0-1{
+  display: none;
+}
+.c0-2{
+  display: none;
+}
+.c0-3{
+  height: 450px;
+  background-image: url("img/123.png");
+  background-position: right;
+}
+.c0-4{
+  display: none;
+}
+.c0-5{
+  display: none;
+}
+  .book1{
+    width: 90%;
+  }
+  .rec1{
+    display: none;
+  }
+  .xyz{
+  width: 330px;
+  border-radius: 5px;
+}
+    label {
+        display: block;
+        cursor: pointer;
+        float: right;
+        margin: 0px 0px 0px 0px;
+    }
+    .menu {
+        text-align: center;
+        width: 100%;
+        display: none;
+    }
+    .menu a {
+        display: block;
+        border-bottom: 1px solid #EAEAEB;
+        margin: 0;
+     
+    }
+    #toggle:checked + .menu {
+        display: block;
+    }
+    .logo{
+  width: 150px;
+    display: block;
+    position: absolute;
+    margin: 30px 0px 0px 0px;
+}
+    .ff1{
+  font-size: 20px
+}
+.end{
+  text-align: center;
+  color: #fff;
+  background-color: #5A5555;
+  padding: 10px 0px;
+  font-size: 12px;
+}
+.en{
+  padding-left: 30px;
+}
+.diss{
+  display: none;
+}
+}
